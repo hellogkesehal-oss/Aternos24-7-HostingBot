@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "hardcoresmp",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "zinxuSMP.aternos.me",
-    "port": 39253,
+    "ip": "HardcoreSMP-4th.aternos.me",
+    "port": 37783,
     "version": "",
     "try-creative": false
   },
